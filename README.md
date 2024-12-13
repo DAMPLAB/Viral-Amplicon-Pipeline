@@ -1,7 +1,7 @@
 # Viral-Amplicon-Pipeline
 
 ## Introduction
-This repository details the viral amplicon sequencing pipeline developed by the DAMP Lab for the Connor Lab, both at Boston University. The experimental goal is to extract RNA from viral samples, generate cDNA and amplicons, and prepare the amplicons for sequencing. This is a fully automated process that includes eight automated scripts that were created and validated in the DAMP Lab utlizing Hamilton Microlab STAR liquid handlers. The full Standard Operating Procedures can be found in the [Full Pipeline SOPs and Intermediary Steps Document](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Full%20Pipeline%20SOPs%20and%20Intermediary%20Steps.pdf). 
+This repository details the viral amplicon sequencing pipeline developed by the DAMP Lab for the Connor Lab, both at Boston University. The experimental goal is to extract RNA from viral samples, generate cDNA and amplicons, and prepare the amplicons for sequencing. This is a fully automated process that includes eight automated scripts that were created and validated in the DAMP Lab utilizing Hamilton Microlab STAR liquid handlers. The full Standard Operating Procedures can be found in the [Full Pipeline SOPs and Intermediary Steps Document](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Full%20Pipeline%20SOPs%20and%20Intermediary%20Steps.pdf). 
 
 ## Pipeline Steps with Approximate Times
 Automated Scripts are linked. 
