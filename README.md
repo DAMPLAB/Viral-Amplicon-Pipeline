@@ -6,13 +6,13 @@ This repository details the viral amplicon sequencing pipeline developed by the 
 ## Pipeline Steps with Approximate Times
 Automated Scripts are linked. 
 1. Sample Receipt & Aliquot ~20 minutes
-3. [RNA Extraction](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/COVID-19%20Extraction%20V1.2.0_DAMP.pkg)~2 hours and 15 minutes
+3. [RNA Extraction](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/COVID-19%20Extraction%20V1.2.0_DAMP.pkg) ~2 hours and 15 minutes
 4. [RT and cDNA Generation](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/cDNA_Generation_V1.0.0.pkg)  ~1 hour and 20 minutes
 5. [Target Amplicon Generation](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Amplicon_Generation_V1.0.0.pkg) ~5 hours and 10 minutes
 6. QC Checkpoint: Gel Electrophoresis ~2 hours and 20 minutes
-7. [Ampure XP Bead Clean-Up](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Amplicon_cleanup_V1.1.1.pkg)~2 hours
+7. [Ampure XP Bead Clean-Up](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Amplicon_cleanup_V1.1.1.pkg) ~2 hours
 8. [Sample Dilution](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Dilution%20Method%20V1.0.pkg) ~25 minutes
-9. [Library Preparation](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/NEB_Next_UltraExpress_V1.1.2.pkg)~4 hours and 15 minutes
+9. [Library Preparation](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/NEB_Next_UltraExpress_V1.1.2.pkg) ~4 hours and 15 minutes
 10. [Quantification](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Quantification%20Prep_V3.0.pkg) ~1 hour and 10 minutes
 11. [Sample Dilution](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Dilution%20Method%20V1.0.pkg) (Optional) ~25 minutes
 12. [Pooling](https://github.com/DAMPLAB/Viral-Amplicon-Pipeline/blob/main/Automated%20Methods/Normalization%20%26%20Pooling_V1.0.pkg) ~30 minutes
